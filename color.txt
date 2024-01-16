@@ -1,0 +1,5 @@
+Primary Color = #ff4d00
+Secondary =
+other = #ff0000
+
+
